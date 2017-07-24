@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="data_main">
+        <item>CARS 3 DRIVEN TO WIN (R3)(EN)</item>
+        <item>TALES FROM THE BORDERLANDS COMPLETE SEASON(R3)(EN)</item>
+        <item>The Crew [Z3]</item>
+        <item>DRAGON BALL XENOVERSE 2(R1)(EN)</item>
+        <item>OVERCOOKED (R1)(EN) </item>
+        <item>FAR CRY PRIMAL (R3)(EN)</item>
+        <item>ASSASSIN CREED SYNDICATE(R1)(EN)</item>
+
+    </string-array>
+
+    <string-array name="data_detail">
+<item>The road to becoming a champion starts with this first look of Cars 3: Driven to Win! Speed into the world of Lightning McQueen, Cruz Ramirez, Jackson Storm and other beloved characters as you determine your path to racing mastery!
+Start your engines and gear up for the ultimate racing experience in Cars 3: Driven to Win inspired by Disney Pixar’s film, Cars 3. Play with over 20 customizable characters including Lightning McQueen, Jackson Storm, Cruz Ramirez and the next generation of racers in over 20 tracks set in iconic locations from the film such as Radiator Springs. Train and advance your abilities in 6 game modes and challenge your family and friends in the Battle Race to become the Ultimate Champion. On the road to becoming a Hall of Fame Driver, training and skill will give you an edge in a race that anyone can win</item>
+        <item>Like all good tales, there’s more than one side to a story. Especially one about a Vault key, the Hyperion Corporation, bandits, loot, gangsters, Vault Hunters, secret Atlas tech, explosions, getaways, extortion, betrayal, and mayhem.
+Set after the events seen in Borderlands 2, Tales from the Borderlands is about Rhys, a Hyperion company man looking to become the next Handsome Jack, and it’s also about Fiona, a Pandoran con artist out to score the biggest of all swindles.
+Lured into danger by a Vault key and all it promises, the unlikely duo are thrown together with a common goal and a huge amount of mistrust. Who is telling the truth, and why is it important?
+That’s up to you to decide.
+You are Rhys…and you are also Fiona, because like every tale worth telling, there are two…oh, you read that part already? Well, it’s important to remember that there *are* two sides to every story, and you my friend, you will tell this tale, or…tales, through the choices that you make. Your every decision as both Rhys and Fiona will affect the people and world around you: this is a game where YOU are the final author in a brand new Borderlands story set on the unforgiving world of Pandora.</item>
+        <item>เกมแข่งรถแบบ Open World ท้าดวล แต่งรถ กราฟฟิคอันสวยงาม พร้อมจะเป็นนักแข่งรถตีนผีเหยียบให้มิดไมล์ได้เลย</item>
+        <item>Developed to fully utilize the power of current generation gaming consoles and PCs, DRAGON BALL XENOVERSE 2 builds upon the highly popular DRAGON BALL XENOVERSE with enhanced graphics that will further immerse players into the largest and most detailed Dragon Ball world ever developed.</item>
+        <item>Overcookedis a chaotic couch coop cooking game for one to four players. Working as a team, you and your fellow chefs must prepare, cook and serve up a variety of tasty orders before the baying customers storm out in a huff. Sharpen your knives and dust off your chef’s whites, there isn’t mushroom for error and the steaks are high in these crazy kitchens.
+The Onion Kingdom is in danger and only the finest cooking can save it! In Overcooked players must journey through a variety of cruel and unusual kitchens on their quest to become master chefs capable of conquering an ancient edible evil which plagues the land. Play solo or engage in classic, chaotic couch coop for up to four players in both cooperative and competitive challenge modes. You’ll have to cook a range of different dishes and work together in order to become the most effective and ultimate team</item>
+<item> Rise Above Extinction  Conquer the land and your enemies in the original fight for mankinds survival
+ Experience The Stone Age by Far Cry  Enter an openworld sandbox filled with the unpredictable chaos and peril that the bestselling franchise is known for
+ Conquer Epic Beasts  Hunt down dangerous predators like the savage saber toothed tiger and the elusive wooly mammoth
+ Become The Apex Predator  Defeat the deadly tribes of Oros as you fight to unite mankind
+ Discover The Deadly world of Oros  Fight to survive amidst lush redwood forests, harsh taiga, frozen tundra and murky swamps</item>
+        <item>Journey through London 1960 Industrial Revolution in Assassin Creed Syndicate! This historical action adventure open world stealth video game offers groundbreaking features which will be first in the series long running famed titles: a female protagonist to be featured in the series main entry, new gameplay mechanics, new travelling systems, new set of weaponries, a larger open world to traverse, and so much more! Together with twins Jacob and Evie, unite London criminal underworld and forge a different kind of battle in Ubisoft biggest title yet Assassins Creed Syndicate!</item>
+    </string-array>
+
+    <string-array name="data_price">
+        <item>1690 Bath</item>
+        <item>490  Bath</item>
+        <item>1690 Bath</item>
+        <item>1490 Bath</item>
+        <item>890 Bath</item>
+        <item>990 Bath</item>
+        <item>890 Bath</item>
+
+
+    </string-array>
+
+</resources>
